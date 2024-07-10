@@ -2,3 +2,4 @@ pymdown-extensions
 mkdocs-git-revision-date-localized-plugin
 mkdocs-minify-plugin
 mkdocs-blog-plugin
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
